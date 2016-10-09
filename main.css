@@ -1,0 +1,32 @@
+ /*general rules for entire page */
+
+li{
+  list-style: none;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+ul{
+  padding-left: 0px;
+}
+
+div {
+  border: 1px solid grey;
+  background: #EEEEEE;
+  color: grey;
+}
+
+body {
+  text-align: center;
+}
+
+.closing {
+  background: grey;
+  color: white;
+  margin-top: 0px;
+  margin-bottom : 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
