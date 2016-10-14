@@ -42,7 +42,8 @@ var eight = items.filter(function(objects){
 });
 
 for (count = 0; count < eight.length; count++){
-  answer5.innerHTML += "<p>" + eight[count].title + "</p>" + "<p>" + eight[count].materials + "</p>";
+  answer5.innerHTML += "<p>" + eight[count].title + "</p>"
+  + "<p>" + eight[count].materials + "</p>";
 };
 
 
